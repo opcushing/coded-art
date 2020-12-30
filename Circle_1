@@ -1,3 +1,7 @@
+#Author: Owen Cushing
+#Date: January 2020
+//uses library "Processing"
+
 void setup(){
   size(1500, 1500);
   noLoop();
